@@ -1,0 +1,4 @@
+#Fri Feb 11 17:53:39 IST 2022
+base.0=/home/eulogik/Documents/flutter/yum_woo/yumtaswoocom/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
